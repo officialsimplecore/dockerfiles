@@ -1,0 +1,8 @@
+# Add this to the .yml file in the .git/ folder
+
+- name: ftp-action
+  uses: sebastianpopp/ftp-action@v2.0.0
+  
+  # Note that you can change the version depending on latest:
+  https://github.com/marketplace/actions/ftp-action
+  https://github.com/sebastianpopp/ftp-action
