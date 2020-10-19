@@ -24,4 +24,4 @@ EXPOSE 4001
 
 # Start server
   # Replace with project name after dist/ folder
-CMD ["node", "dist/CoreClassroom/server/main.js"]
+CMD ["node", "dist/{PROJECT_NAME}/server/main.js"]
